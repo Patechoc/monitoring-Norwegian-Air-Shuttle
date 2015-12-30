@@ -9,6 +9,6 @@ This app uses import.io to extract the data per day, only for one-way direct fli
 
 For now, pretty limited proof-of-concept:
 
-´´´shell
+```shell
 python script_extractor_NorwegianAirShuttle_oneDay_oneWayDirect.py
-´´´
+```
